@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is E6D5-642E
+
+ Directory of C:\Users\Andrew\Documents\temp\test1
+
+01/02/2019  21:24    <DIR>          .
+01/02/2019  21:24    <DIR>          ..
+01/02/2019  21:17                13 BARNY.txt
+01/02/2019  21:14                35 FRED.CSV
+01/02/2019  21:24                 0 joe.txt
+01/02/2019  21:14                 7 php_in_git.bat
+               4 File(s)             55 bytes
+               2 Dir(s)  327,820,738,560 bytes free
